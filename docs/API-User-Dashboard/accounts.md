@@ -6,25 +6,28 @@ title: Accounts
 
 ## Create an account
 
--	**Step 1: Navigate to GINAR website** To create your GINAR account you only need a web browser and an internet connection. Go to https://www.ginar.io/. You should now get to a page that looks something like the one below. Click the **Sign up** on the right-top homepage then proceed to the next step.
+-	**Step 1: Navigate to GINAR Website** 
+To create your GINAR account you only need a web browser with internet connection. Go to **https://www.ginar.io/**, you should now get to a page that looks something like the one below. Click the **Sign up** on the right-top homepage then go to the next step.
 
 ![GINAR Website](https://github.com/GINARTeam/docs/blob/master/docs/API-User-Dashboard/1.%20GINAR%20Website.png?raw=true)
 
--	**Step 2: Complete registration info** The user registration request form appears, you now need to start filling the form. 
+-	**Step 2: Complete Registration Information** 
+After click to **Sign up**, you will go to GINAR Cockpit page, the user registration request form will appear, you now need to start filling the form. 
 
-> **Name**: This is your profile name which will show in your GINAR Dashboard, and on how GINAR call you.
+> **First Name & Last Name**: This is your profile name which will show in your GINAR User Dashboard.
 
-> **Email**: Enable this channel to receive verification codes as email messages to your email inbox. This is your primary email address. Each email is validated for single account only.
+> **Email**: Enable this channel to receive verification codes as email messages to your email inbox. Each email is validated for single account only.
 
-> **Password**: The password length should be greater than 8 characters which includes at least one lowercase letter, one uppercase letter, one special character, and one digit.
+> **Password & Repeat Password**: The password length must have at least 8 characters and must contain lowercase, uppercase letter, special character, and digit.
 
-If you need a small bandwidth and prefer Individual solutions, then Click to “Sign up” to finish registration for the next step of email verification. 
+If you need a small bandwidth and prefer Individual Subscription plans, then Click to “Sign up” to finish registration. In the next step, get the verification link through of email. 
 
-If you are the SMB & Enterprise and need bigger bandwidth for your company business, then we suggest selecting the “Business” option with few additional business information before “Sign up” to enjoy the best B2B services from GINAR.
+If you are looking for the higher bandwidth for your company business, then we suggest to select the **Business Subscription plans** by adding few more business information before “Sign up”.
 
 ![Signup](https://github.com/ginarteam/docs/blob/master/docs/API-User-Dashboard/2.Signup.png?raw=true)
 
--	**Step 3: Verify your account** After clicking “Sign up”, the verification email will be sent to your registered email inbox (please also check your spam mail box). Open the email and click the link to confirm the creation of the account.
+-	**Step 3: Verify Your Account** 
+After clicking “Sign up”, the verification email will be sent to your registered email inbox (please also check your spam mail box). Open the email and click the verification link to confirm the creation of your account with us.
 
 ![Verify](https://github.com/ginarteam/docs/blob/master/docs/API-User-Dashboard/3.Verify.png?raw=true)
 

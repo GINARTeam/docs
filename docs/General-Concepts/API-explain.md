@@ -8,9 +8,9 @@ GINAR system is running on a public blockchain along with a private blockchain o
 
 ![GINAR System](https://github.com/ginarteam/docs/blob/master/docs/General-Concepts/System.png?raw=true)
 
-The **GINAR Service** is a bridge between clients requesting random numbers and decentralized networks which oversees generating numbers
+**GINAR Service** is a bridge between clients who requesting random numbers and decentralized networks which oversees generating numbers
 
-The **Core Layer** is in charge of generating the random numbers. This component is running on a permissioned blockchain that consists of many nodes distributed throughout the network. Each node in the Core Layer has a private key sk and a corresponding public key pk.
+**Core Layer** is in charge of generating the random numbers. This component is running on a permissioned blockchain that consists of many nodes distributed throughout the network. Each node in the Core Layer has a **private key sk** and a corresponding **public key pk**.
 
-The **public blockchain** hosts a low-speed, open, multi-participatory RNG protocol to produce fair, verifiable numbers.
+**Public blockchain** hosts a low-speed, open, multi-participatory RNG protocol to produce fair, verifiable numbers.
 

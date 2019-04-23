@@ -31,17 +31,18 @@ After clicking “Sign up”, the verification email will be sent to your regist
 
 ![Verify](https://github.com/ginarteam/docs/blob/master/docs/API-User-Dashboard/3.Verify.png?raw=true)
 
-The GINAR account created confirmation message appears. This message confirmed you have finished GINAR account registration. To start using the GINAR services, you have to add the payment method in the first-time login in GINAR dashboard.
+The GINAR account creation message will appear. This message confirmed you have finished GINAR account registration. To start using the GINAR services, you have to add the payment method in the first-time login in GINAR dashboard.
 
 ![Congratulations](https://github.com/ginarteam/docs/blob/master/docs/API-User-Dashboard/4.Congrats.png?raw=true)
 
+
 ## Login to GINAR Dashboard
 
--	**Step 1: Navigate to GINAR website** To access GINAR user dashboard, go to https://www.ginar.io/. Click Login on right-top homepage and then proceed to the next step.
+-	**Step 1: Navigate to GINAR website** To access GINAR user dashboard, go to https://www.ginar.io/. Click **Login** on right-top homepage and then proceed to the next step.
 
-![GINAR Website](https://github.com/ginarteam/docs/blob/master/docs/API-User-Dashboard/1.GINAR%20Website.png?raw=true)
+![GINAR Website](https://github.com/GINARTeam/docs/blob/master/docs/API-User-Dashboard/1.%20GINAR%20Website.png?raw=true)
 
--	**Step 2: Login to GINAR Dashboard** On the login page, enter the email address and password that you registered with GINAR. Click Login to access GINAR dashboard.
+-	**Step 2: Login to GINAR User Dashboard** On the login page, enter the email address and password that you registered with GINAR. Click Login to access GINAR user dashboard.
 
 ![Login](https://github.com/GINARTeam/docs/blob/master/docs/API-User-Dashboard/5.%20Login.png?raw=true)
 
@@ -49,6 +50,6 @@ The GINAR account created confirmation message appears. This message confirmed y
 
 ## Resetting Your Password
 
-If you forgot your password, then you must reset it. On the login page, click the **Forgot password?**. The **Change Your Password** windows will appear. You enter your email address and click Submit. You will receive an email with a link and instruction to enter the new password.
+If you forgot your password, then you must reset it. On the login page, click the **Forgot Password?**. The **Change Your Password** windows will appear. You enter your email address and click Submit. An email with a link and instruction to enter the new password will be sent to your email inbox.
 
-If you have more than 3 times enter wrong Login password, you will receive an email with instruction to reset your password.
+![Forget Password](https://github.com/GINARTeam/docs/blob/master/docs/API-User-Dashboard/Forget%20Password.png?raw=true)

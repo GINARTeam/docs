@@ -4,12 +4,12 @@ sidebar_label: Authentication
 title: Authentication
 ---
 
-To use the GINAR API, you have to authenticate your account by get you API keys in the Dashboard. Your API keys carry many privileges, so be sure to keep them secure. Do not share your secret API keys in publicly areas.
+To use the GINAR API, you have to authenticate your account by get your API keys in the Dashboard. Your API keys carry many privileges, so be sure to keep them secure. Do not share your secret API keys in public areas.
 
-Your API keys is a pair of keys: **public key** and **secret key**.
+Your API keys is a pair of keys: **Public Key** and **Secret Key**.
  * **_public key_**: unique string that identify your account.
   * Example: ```pk_1971543983496788```
- * **_secret key_**: a string which you can generate from _public key_. To manage your secret keys, take a look **API keys** section.
+ * **_secret key_**: a string which you can generate from _public key_. To manage your secret keys, take a look on **API keys** section.
   * Exmple:  ```sk_1971543983496790```
 
 _public key_ and _secret key_ are also **account** and **password** which you need to pass HTTP authentication before using the GINAR API.

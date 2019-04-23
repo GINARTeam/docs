@@ -4,19 +4,20 @@ sidebar_label: Dashboard
 title: Dashboard
 ---
 
-## About GINAR Dashboard
+## About GINAR User Dashboard
 
-GINAR Dashboards are designed to provide graphical displays of real time status and historical statistics information. It is flexible and enables you to select dashboards by historical timeline.
+The GINAR User Dashboard is designed to provide graphical displays of real time status and historical statistics information. It is flexible and enables you to select dashboards by historical timeline.
 
 
 ## First time access to GINAR Dashboard
 
-When you access the GINAR dashboard for the first time, you have to provide payment information. Once your payment card is authorized, you will receive the Freelancer service from GINAR with 500 requests/month free of charge. 
-
-Fill all the required information then click **Submit** to finish and start the GINAR services.
+On the first time you access the GINAR dashboard, you have to provide payment method information. Fill all the required information then click **Submit** for the next step.
 
 ![Add Payment info](https://github.com/ginarteam/docs/blob/master/docs/API-User-Dashboard/6.%20Payment%20at%201st%20Login.png?raw=true)
 
+Once your payment card is authorized, you will able to select the subscription plan. After confirm the best selection, then click submit to access GINAR service.
+
+![Select Subscription Plan](https://github.com/GINARTeam/docs/blob/master/docs/API-User-Dashboard/Select%20Subscription%20plan.png?raw=true)
 
 ## Viewing Dashboard
 
@@ -32,5 +33,5 @@ To view dashboards, from the left navigation bar, select **Dashboard**. Your def
 -	**Last 3 Months Service**: Recent 3 months service review - request purchased / used / incurred
 -	**Last 3 Years Service**: Recent 3 years service review - request purchased / used / incurred
 
-> **Notice**: The notification will be triggered automatically from GINAR system to your email when your service balance reaching to 10% availability. To avoid any recurred request happen, please consider to upgrade your subscription.
+> **Notice**: The notification will be triggered automatically from GINAR system to your email when your service balance reaching to 10% availability.
 

@@ -7,8 +7,8 @@ title: IP Settings
 ```
 Dashboard/Development/IP Settings
 ```
-For security, we build 2 secure layer: **HTTP authentication** and **IP whitelist**.
-Your device's IP must be in **IP whitelist** to using GINAR services. You can manage your **whitelist** in Dashboard.
+For security purpose, we build 2 secure layers: **HTTP authentication** and **IP whitelist**.
+Your device's IP must be in **IP whitelist** to use GINAR services. You can manage your **whitelist** via your User Dashboard.
 
 ## Add IP address
 * Add IP adress to white list separated by semicolon in the box below.

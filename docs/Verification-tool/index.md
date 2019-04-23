@@ -27,10 +27,10 @@ To use **GINAR Random Verification Tool**, go to https://www.GINAR.io/ and navig
 
 ![Valid](https://github.com/GINARTeam/docs/blob/master/docs/Verification-tool/Valid1.png?raw=true)
 
-The detail results from valid random number will be listed with **Block Information** and **Json Data**
+The detail results from valid random number will be listed with **Block Information**, **Json Data** and **List of PODs (Proof of Designations)**
 
 ![Block Information](https://github.com/GINARTeam/docs/blob/master/docs/Verification-tool/Block%20Info.png?raw=true)
 
-The **List of PODs (Proof of Designations)** 
+
 
 ![PoD](https://github.com/GINARTeam/docs/blob/master/docs/Verification-tool/PoD.png?raw=true)

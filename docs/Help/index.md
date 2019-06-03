@@ -26,7 +26,7 @@ Using the acronym letters from Random Number Generator (RNG) and Artificial Inte
 
  4. What is GINAR's vision?
  
-GINAR’s vision is to provide a secure, verifiable, and unpredictable number for multiple applications ranging from security, IOT to gaming and gambling as well as all industries looking for a best-in-class dRNG service.
+GINAR’s vision is to provide a secure, verifiable, and unpredictable number for multiple applications ranging from security, IOT to gaming as well as all industries looking for a best-in-class dRNG service.
 
 5. What makes GINAR stand out compared to its competitors?
 
@@ -34,11 +34,11 @@ GINAR provides the advantages that Blockchain offers, but with faster computatio
 
 6. What are the business applications for GINAR?
 
-Business applications exist for companies where the trust of a random number generated needs to be secure at the highest level. The most common examples include Gaming and Gambling, IOT, Banking and the Security sector.
+Business applications exist for companies where the trust of a random number generated needs to be secure at the highest level. The most common examples include Gaming, IOT, Banking and the Security sector.
 
 7. What is the business model?
 
-GINAR will provide services via its Application Programming Interface (API). The first innovative creation of GINAR uses a high-speed Random Number Generator that is indistinguishable from random and immutable by using Blockchain based ledger. They will provide a zero-house edge decentralized solution for real world applications in B2B premises that is set to kick start the service with a trustless crowd sale. This will be the breakthrough in the future of gambling, banking and other markets.
+GINAR will provide services via its Application Programming Interface (API). The first innovative creation of GINAR uses a high-speed Random Number Generator that is indistinguishable from random and immutable by using Blockchain based ledger. They will provide a zero-house edge decentralized solution for real world applications in B2B premises that is set to kick start the service with a trustless crowd sale. This will be the breakthrough in the future of gaming, banking and other markets.
 
 8. What are payment types?
 

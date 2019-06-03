@@ -4,7 +4,7 @@ sidebar_label: Industry Applications
 title: Industry Applications
 ---
 
--	Online Gambling / Casino / Lottery
+-	iGaming / Casino / Lottery
 -	Banking / Financial Institutions
 -	Blockchain Developer Community
 -	AI & Machine Learning

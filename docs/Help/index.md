@@ -20,7 +20,7 @@ We have listed here our FAQs for your quick reference, if you have any question 
 
   GINAR is a random number generator based on Blockchain.
 
-3. Where did the name “GINAR” come from”?
+3. Where did the name “GINAR” come from?
 
 Using the acronym letters from Random Number Generator (RNG) and Artificial Intelligence (AI), a randomizer produced the word G.I.N.A.R.
 

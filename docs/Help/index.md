@@ -73,9 +73,7 @@ GINAR also provides consultation, design, and implementation in deeper level for
 Subscription-based scheme for the online user and Contract-based scheme for consultation and implementation work. Please find more information here.
 
 20. Is the GINAR decentralized Random Number Generation service industry certified?
-We have successfully conducted statistical tests using the NIST SP 800-22, DIEHARD & DIEHARDER test suite to examine the distribution of generated numbers to tell how "random" they are. These test suites are acknowledged as certifiably the highest level of cryptographic randomness.
-
-We strive to successfully pass every major set of industry tests and reach the most demanding standards for the gaming industry from GamingLabs to  iTech Labs.
+We have successfully conducted statistical tests using the NIST SP 800-22, DIEHARD & DIEHARDER test suite to examine the distribution of generated numbers to tell how "random" they are. These test suites are acknowledged as certifiably the highest level of cryptographic randomness. We strive to successfully pass every major set of industry tests and reach the most demanding standards for the gaming industry from GamingLabs to  iTech Labs.
 
 21. How can I get in touch with you?
 You can get in touch with us via Website, Email, LinkedIn, Telegram, Medium, Twitter, Facebook, Github.

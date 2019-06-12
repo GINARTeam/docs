@@ -62,7 +62,7 @@ Verifiability is required to ensure that the secure generation process has not b
 16. What are the business applications for GINAR?
 Business applications exist for companies where the trust of a random number generated needs to be secure at the highest level. The most common examples include Gaming, Banking, and the Security sector. 
 
-17. Is the GINAR random number generation service only for Gaming & Gambling?
+17. Is the GINAR random number generation service only for Gaming?
 Gaming is our initial focus business. We have built many non-game partnerships and exploring the different markets such as Finance & Banking, AI & Machine Learning, Internet of Things (IoT).
 
 18. What is the business model?

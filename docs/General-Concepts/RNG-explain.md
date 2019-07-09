@@ -6,9 +6,9 @@ title: GINAR Protocol
 
 The **GINAR protocol** operates via the private blockchain integration or via the HTTP API devided into two phases, **Initialize** and **Process**.
 
-**Initialize Phase**: In this phase, a client in need of random numbers sends a request to the **GINAR Service** to initialize a new session, each session only lasts in a pre-specified interval of time. The **GINAR Service** authenticates the initialization request from the client. If it is valid, a genesis session key **S0** will be established. This session key is then used to determine tickets for generating random numbers.
+**Initialize Phase**: In this phase, a client in need of random numbers sends a request to the **GINAR Service** to initialize a new session, each session only lasts in a pre-specified interval of time. **GINAR’s Service** authenticates the initialization request from the client. If it is valid, a genesis session key **S0** will be established. This session key is then used to determine tickets for generating random numbers.
 
-After the session key is established, the protocol proceeds to the **Process** phase. When the session key expires, if the client wants to request more numbers, the protocol proceeds to the **Initialize phase** to establish a new session.
+After the session key is established, the protocol proceeds to the Process phase. When the session key expires, if the client wants to request more numbers, the protocol proceeds to the **Initialize Phase** to establish a new session.
 
 **Process Phase**: This phase consists of 4 steps
 

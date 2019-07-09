@@ -19,11 +19,11 @@ To use **GINAR Random Verification Tool**, go to **[GINAR Website](https://www.G
 -	**Step 1**: Copy your ticket ID and paste to verification windows
 -	**Step 2**: Click “Search” to verify your ticket ID. Next, the verified result will show up
 
-> *If the random number is incorrect, the tool will notify - **Invalid Result**
+> If the random number is incorrect, the tool will notify - **Invalid Result**
 
 ![Invalid](https://github.com/GINARTeam/docs/blob/master/docs/Verification-tool/Invalid.png?raw=true)
 
-> *If the random number is correct, the tool will notify – **Valid Result**. To understand the verification in detail, you click to **View Results**.
+> If the random number is correct, the tool will notify – **Valid Result**. To understand the verification in detail, you click to **View Results**.
 
 ![Valid](https://github.com/GINARTeam/docs/blob/master/docs/Verification-tool/Valid1.png?raw=true)
 

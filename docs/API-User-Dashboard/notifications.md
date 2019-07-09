@@ -8,14 +8,14 @@ When you have a new notification, a red bubble will appear with the number of ne
 
 Below for the description for each notification from GINAR. 
 
-- **Reset Your Password**:	Reset your Password - when you click to "Forgot Password?" 
-- **Reset Your Password**:	Reset your Password - when you input the 3rd time wrong password
+- **Reset Your Password**:	Reset your Password - when you click "Forgot Password?" 
+- **Reset Your Password**:	Reset your Password - when you input wrong password for the third time
 - **Account Password Changed**: 	Your password has been successfully changed
 - **Email Changed**:	You changed the email address
 - **Payment Card Added Successfully**:	Your Payment Card has been added successfully
 - **Update Payment Information**:	Your Payment Information has been updated successfully
 - **Upgrade/Downgrade Subscription**:	Your subscription package was changed successfully
-- **10% Balance Requests Availability**:	Balance Alert - 10% purchased requests available
-- **Contact Your Issued Bank**:	When your Credit Card is Un-chargeable
+- **10% Balance Requests Availability**:	Balance Alert of 10% purchased requests available
+- **Contact Your Issued Bank**:	When your Credit Card is Unchargeable
 
-> Notice: You can't turn off notifications entirely.
+> **Notice**: *You can't turn off notifications entirely*.

@@ -7,11 +7,11 @@ title: IP Settings
 ```
 Dashboard/Development/IP Settings
 ```
-For security purpose, we build 2 secure layers: **HTTP authentication** and **IP whitelist**.
+For security purposes, we built 2 secure layers: **HTTP authentication** and **IP whitelist**.
 Your device's IP must be in **IP whitelist** to use GINAR services. You can manage your **whitelist** via your User Dashboard.
 
 ## Add IP address
-* Add IP adress to white list separated by semicolon in the box below.
+* Add IP adress to **whitelist** separated by semicolon in the box below.
 * Click **Add To WhiteList**
 * Click **Save**
 ![IP_settings](https://raw.githubusercontent.com/ginarteam/docs/master/docs/Integration/IP_settings.png)
@@ -22,7 +22,7 @@ Your device's IP must be in **IP whitelist** to use GINAR services. You can mana
 * Click **Save**
 
 ## Error
-* If your IP is not in white list, you can not access to the API
+* If your IP is not in whitelist, you can not access to the API
 ```
 {
     "message": "your current IP (113.161.84.237) is not whitelisted"

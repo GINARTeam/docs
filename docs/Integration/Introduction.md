@@ -12,4 +12,4 @@ The GINAR API is organized around [REST](https://en.wikipedia.org/wiki/Represent
 ## Base URL
 ```https://api.ginar.io/```
 
-For security, we build 2 secure layer: **HTTP authentication** and **IP whitelist**.
+For security, we built 2 secure layers: **HTTP authentication** and **IP whitelist**.

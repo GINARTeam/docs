@@ -4,13 +4,13 @@ sidebar_label: Request Number
 title: Request Number
 ---
 
-After passed authentication, you can request secure random number from GINAR system by the GINAR API. First, you need to initialize your request.
+After passing authentication, you can request secure random numbers from GINAR’s system through the GINAR API. First, you need to initialize your request.
 ## API initialize
 * API URL: 
 > https://api.ginar.io/rng/initialize/ **{contribute_number}**
 * Method: ``GET``
 * Parameters:
-	* **contibute_number**:  An arbitrary number that the user contributes to the public blockchain generating random numbers, each contributed number from users is a random entropy that affects the random number messages users should get for their sessions.
+	* **contibute_number**:  An arbitrary number that the user contributes to the public blockchain, generating random numbers. Each contributed number from users is a random entropy that affects the random number messages users should get for their sessions.
 		* _type_: **string** (required)
 		* _constraint_: string length in 1..50
 * Return: A hex-string session key that can be used as input to the API Generate. This session key is kept in the server until it is used.

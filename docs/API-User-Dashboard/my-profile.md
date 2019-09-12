@@ -12,4 +12,4 @@ Navigate to **My Profile** in your user dashboard at the right-top corner. From 
 
 GINAR system allows you to change your password at any time.
 
-![My Profile](https://github.com/GINARTeam/docs/blob/master/docs/API-User-Dashboard/8.%20My%20Profile.png?raw=true)
+![My Profile](https://github.com/GINARTeam/docs/blob/master/docs/API-User-Dashboard/8.My%20Profile.png?raw=true)

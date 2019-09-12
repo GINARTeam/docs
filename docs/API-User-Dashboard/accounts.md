@@ -22,10 +22,6 @@ After clicking **Sign Up** button, you will go to **[GINAR Cockpit](https://cock
 
 > **Password & Repeat Password**: *The password length must have at least 8 characters and must contain lowercase, uppercase letter, special character, and digit.*
 
-- If you need a small bandwidth and prefer **Individual Subscription** plans, then Click to **Sign up** to finish registration. In the next step, get the verification link through of email. 
-
-- If looking for higher bandwidth for your company’s business, then we suggest selecting the **Business Subscription** plans by adding a few more business information details before **signing up**..
-
 ![Signup](https://github.com/ginarteam/docs/blob/master/docs/API-User-Dashboard/2.Signup.png?raw=true)
 
 -	**Step 3: Verify Your Account** 
@@ -34,7 +30,7 @@ After clicking **Sign up**, the verification email will be sent to your register
 
 ![Verify](https://github.com/ginarteam/docs/blob/master/docs/API-User-Dashboard/3.Verify.png?raw=true)
 
-The GINAR account creation message will appear. This message confirmed you have finished GINAR’s account registration. To start using GINAR services, you must add the payment method in the first-time login in GINAR dashboard.
+The GINAR account creation message will appear. This message confirmed you have finished GINAR’s account registration. 
 
 ![Congratulations](https://github.com/ginarteam/docs/blob/master/docs/API-User-Dashboard/4.Congrats.png?raw=true)
 

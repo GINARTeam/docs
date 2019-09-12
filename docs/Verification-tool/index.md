@@ -21,16 +21,10 @@ To use **GINAR Random Verification Tool**, go to **[GINAR Website](https://www.G
 
 > If the random number is incorrect, the tool will notify - **Invalid Result**
 
-![Invalid](https://github.com/GINARTeam/docs/blob/master/docs/Verification-tool/Invalid.png?raw=true)
+![Invalid](https://github.com/GINARTeam/docs/blob/master/docs/Verification-tool/2.Failed%20Verify.png?raw=true)
 
 > If the random number is correct, the tool will notify – **Valid Result**. To understand the verification in detail, you click to **View Results**.
 
-![Valid](https://github.com/GINARTeam/docs/blob/master/docs/Verification-tool/Valid1.png?raw=true)
-
-The detail results from valid random number will be listed with **Block Information**, **Json Data** and **List of PODs (Proof of Designations)**
-
-![Block Information](https://github.com/GINARTeam/docs/blob/master/docs/Verification-tool/Block%20Info.png?raw=true)
+![Valid](https://github.com/GINARTeam/docs/blob/master/docs/Verification-tool/1.Success%20Verified.png?raw=true)
 
 
-
-![PoD](https://github.com/GINARTeam/docs/blob/master/docs/Verification-tool/PoD.png?raw=true)

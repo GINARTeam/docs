@@ -22,7 +22,7 @@ After clicking **Sign Up** button, you will go to **[GINAR Cockpit](https://cock
 
 > **Password & Repeat Password**: *The password length must have at least 8 characters and must contain lowercase, uppercase letter, special character, and digit.*
 
-![Signup](https://github.com/ginarteam/docs/blob/master/docs/API-User-Dashboard/2.Signup.png?raw=true)
+![Signup](https://github.com/GINARTeam/docs/blob/master/docs/API-User-Dashboard/2.Signup.jpg?raw=true)
 
 -	**Step 3: Verify Your Account** 
 

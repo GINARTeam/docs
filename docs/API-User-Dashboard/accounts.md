@@ -28,11 +28,11 @@ After clicking **Sign Up** button, you will go to **[GINAR Cockpit](https://cock
 
 After clicking **Sign up**, the verification email will be sent to your registered email inbox (please also check your spam mailbox). Open the email and click the verification link to confirm the creation of your account with us.
 
-![Verify](https://github.com/ginarteam/docs/blob/master/docs/API-User-Dashboard/3.Verify.png?raw=true)
+![Verify](https://github.com/GINARTeam/docs/blob/master/docs/API-User-Dashboard/2.Signup2.jpg?raw=true)
 
 The GINAR account creation message will appear. This message confirmed you have finished GINAR’s account registration. 
 
-![Congratulations](https://github.com/ginarteam/docs/blob/master/docs/API-User-Dashboard/4.Congrats.png?raw=true)
+![Congratulations](https://github.com/GINARTeam/docs/blob/master/docs/API-User-Dashboard/3.Verify2.jpg?raw=true)
 
 
 ## Login to GINAR Dashboard

@@ -1,4 +1,4 @@
----
+<!-- ---
 id: subscription
 sidebar_label: Subscription
 title: Subscription
@@ -38,4 +38,4 @@ Please note, your available requests in the previous subscription won’t be los
 
 In order to pause your subscription, you simply click to **Pause** button, then confirm to finish. You can reactivate your service with GINAR at any time.
 
-> **Notice**: *By pausing your subscription, at the end of the current billing cycle, you will no longer be charged the monthly recurring fee. You can reactivate your service with GINAR at any time*.
+> **Notice**: *By pausing your subscription, at the end of the current billing cycle, you will no longer be charged the monthly recurring fee. You can reactivate your service with GINAR at any time*. -->

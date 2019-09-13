@@ -35,12 +35,6 @@
       {
         "type":"subcategory",
         "ids":[
-          "API-User-Dashboard/subscription"
-        ]
-      },
-      {
-        "type":"subcategory",
-        "ids":[
           "API-User-Dashboard/my-profile"
         ]
       },

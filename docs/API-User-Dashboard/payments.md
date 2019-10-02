@@ -11,9 +11,9 @@ GINAR offers payment options to capture funds and disburse payments for your GIN
 <!-- Below are step by step on how to make the payment by your credit card, the accounts payable processes with **Stripe Payment Gateway** to collect funds and make payments. -->
 
 
-## Update Additional Billing Address
+## Update Billing Address
 
-Update the payment method information is required for the first-time accessing GINAR user dashboard, to enjoy the uninterruptible GINAR service, the user should provide the additional Billing Address
+<!-- Update the payment method information is required for the first-time accessing GINAR user dashboard, to enjoy the uninterruptible GINAR service, the user should provide the additional Billing Address -->
 
 The following steps will guide you how to update billing address:
 -	Login to your **GINAR user dashboard** by registered email and password

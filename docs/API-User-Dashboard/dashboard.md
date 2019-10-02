@@ -15,11 +15,11 @@ To view dashboards, from the left navigation bar, select **Dashboard**. Your def
 
 ![Dashboard](https://github.com/GINARTeam/docs/blob/master/docs/API-User-Dashboard/7.Dashboard.png?raw=true)
 
--	**Active Package**: Your purchased and running GINAR service
-- **Active Date**: The date your service is activated
-- **Expired Date**: The date your service is end
--	**Total Requests**: Your quota service call
--	**Available Requests**: Your GINAR available quota service
+-	**Service Status**: Your service with us (Active/Inactive)
+- **Current Service**: Your current service package
+- **Activated Date**: The date your service will be activated
+-	**Expired Date**: The date your service will be expired
+-	**API Request Quota**: The contract random API service with us (refer to SWO)
 
 
 > **Notice**: *The notification will be triggered automatically from GINAR system to your email when your service balance reaches to 10% availability.*

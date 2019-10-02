@@ -14,7 +14,7 @@ Your device's IP must be in **IP whitelist** to use GINAR services. You can mana
 * Add IP adress to **whitelist** separated by semicolon in the box below.
 * Click **Add To WhiteList**
 * Click **Save**
-![IP_settings](https://github.com/GINARTeam/docs/blob/master/docs/Integration/2.IP_settings.png?raw=true)
+![IP_settings](https://github.com/GINARTeam/docs/blob/master/docs/Integration/2.IPSettings.png?raw=true)
 
 ## Delete IP address
 * Click the IP which you want to delete, you will see a pop-up notification.

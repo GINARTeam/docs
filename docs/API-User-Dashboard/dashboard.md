@@ -13,7 +13,7 @@ The GINAR User Dashboard is designed to provide graphical displays of real-time 
 
 To view dashboards, from the left navigation bar, select **Dashboard**. Your default dashboard will be displayed. You can select the type of dashboard you want to view.
 
-![Dashboard](https://github.com/GINARTeam/docs/blob/master/docs/API-User-Dashboard/7.Dashboard.jpg?raw=true)
+![Dashboard](https://github.com/GINARTeam/docs/blob/master/docs/API-User-Dashboard/7.Dashboard.png?raw=true)
 
 -	**Active Package**: Your purchased and running GINAR service
 - **Active Date**: The date your service is activated

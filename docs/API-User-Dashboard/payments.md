@@ -19,7 +19,7 @@ The following steps will guide you how to update billing address:
 -	Login to your **GINAR user dashboard** by registered email and password
 -	In the dashboard page, navigate to **Payment**. In this page, you can configure your billing information. Remember to record your billing address by clicking to **Save**.
 
-![Add Payment](https://github.com/GINARTeam/docs/blob/master/docs/API-User-Dashboard/9.Add%20Payment.jpg?raw=true)
+![Add Payment](https://github.com/GINARTeam/docs/blob/master/docs/API-User-Dashboard/9.6.Update%20Billing%20Address.png?raw=true)
 
 <!-- -	To add a new Credit Card, click to **Add Payment Method**, then provide the Card information. Click **Submit** to finish.
 

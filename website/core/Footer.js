@@ -21,8 +21,8 @@ class Footer extends React.Component {
   render() {
     return (
       <footer className="nav-footer" id="footer">
-        <section className="sitemap">
-          {/* <a href={this.props.config.baseUrl} className="nav-home">
+         {/*<section className="sitemap">
+          <a href={this.props.config.baseUrl} className="nav-home">
             {this.props.config.footerIcon && (
               <img
                 src={this.props.config.baseUrl + this.props.config.footerIcon}
@@ -77,8 +77,8 @@ class Footer extends React.Component {
               aria-label="Star this project on GitHub">
               Star
             </a>
-          </div> */}
-        </section>
+          </div> 
+        </section>*/}
 
         {/* <a
           href="https://code.facebook.com/projects/"
@@ -92,7 +92,7 @@ class Footer extends React.Component {
             height="45"
           />
         </a> */}
-        <section className="copyright">{this.props.config.copyright}</section>
+        <section className="copyright" dangerouslySetInnerHTML={{__html: this.props.config.copyright}} ></section>
       </footer>
     );
   }

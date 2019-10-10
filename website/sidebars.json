@@ -68,6 +68,12 @@
       {
         "type":"subcategory",
         "ids":[
+          "Integration/verify_number"
+        ]
+      },
+      {
+        "type":"subcategory",
+        "ids":[
           "Integration/request_error"
         ]
       }

@@ -73,7 +73,7 @@ const siteConfig = {
   */
 
   // This copyright info is used in /core/Footer.js and blog RSS/Atom feeds.
-  copyright: `Copyright © ${new Date().getFullYear()} GINAR`,
+  copyright: `Copyright © ${new Date().getFullYear()} <a href="https://www.ginar.io/" target="_blank"><font color="FFFFFF">GINAR.io</font></a>`,
 
   highlight: {
     // Highlight.js theme to use for syntax highlighting in code blocks.

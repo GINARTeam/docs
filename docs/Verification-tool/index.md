@@ -1,9 +1,26 @@
 ---
 id: verification-tool
-title: How to use GINAR Random Verification Tool?
+title: RNG Authenticity Verification
 ---
 
-Verifiability is required to ensure that the generation process has not been circumvented. Traditional RNGs can only prove that it uses a random method but are not able to provide any technique to audit the results after they are generated. Meaning that the final result might have been manipulated, thus, they may be prone to insider fraud. This places heavy trust in the service provider. GINAR’s decentralized solutions leverage the Blockchain technology to bring transparency in the generation process to everyone. Every step in the generation process is recorded and then related data is published in the blockchains. With this information, everyone can easily check if there is any manipulation happening during the generation process.
+## 1. Introduction
+
+GINAR is a service that provides random numbers based on blockchain technology with the following main characteristics: **unpredictability, public-verifiability, tamper-resistance**, and **transparency**. Public-verifiability is the property that enables anyone to check the correctness of random number generation from GINAR. We have APIs available to support authenticity verification.
+
+## 2. How GINAR generate random numbers?
+
+GINAR service generates a random number from the input **Ticket ID**. This Ticket ID contained: 
+- Machine ID: The Machine ID which being defined by GINAR customers.
+- ETH entropy: The entropy receive from Ethereum blockchain through dRNG smart contract
+- Timestamp at receiving
+- Serial numbers: Each customer has a set of serial numbers
+- User Data: GINAR customers can decide whether or not to send their user data for contributing the ticket ID creation
+- Mockup ID: The mockup procedure performed by GINAR system to create a specific ticket ID
+
+After each successful query, a next Ticket ID is created from the previous Ticket ID following recursive formula. GINAR service keeps the hash of the genesis Ticket ID, this value will be published on blockchain for authenticity verification.
+
+
+
 
 
 To use **GINAR Random Verification Tool**, go to **[GINAR Website](https://www.GINAR.io/)** and navigate to **Verify**, then find **Verification Tool** to start verifying your random number. It will link you to the **[Verification Page](https://blackbox.ginar.io/)**.

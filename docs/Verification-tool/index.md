@@ -44,6 +44,17 @@ If the **Gaming/iGaming Providers** already integrated GINAR random service API,
 
 You can use Ticket ID to verify beacon value and timestamp when this beacon has been generated. This value will be the root of all calculations for the later generation.
 
+### Step 2: Verification Results
+
+- If you get a message **Ticket not found !**, that means the **Ticket ID** has not been initiated yet.
+
+![NotFound](https://github.com/GINARTeam/docs/blob/master/docs/Verification-tool/TicketNotFound.png?raw=true)
+
+- If the Ticket ID is **found** and **used**, that means the **Ticket ID** had been initiated and used.
+
+![Found](https://github.com/GINARTeam/docs/blob/master/docs/Verification-tool/TicketFound.png?raw=true)
+
+
 
 
 ## Verification process

@@ -36,12 +36,11 @@ The verifying procedure shows details results from GINAR's Authenticity Verifica
 
 ### Step 1: Input the Ticket ID
 
-If the **Gaming/iGaming Providers** already integrated GINAR random service API, then you can simply click on **Verify Ticket** to access the **RNG Authenticity Verification**. Else, you can access the **Verification Tool** [here](https://blackbox.ginar.io), and enter Ticket ID then click Verify. 
+If the **Gaming/iGaming Providers** already integrated GINAR random service API, then you can simply click on **Verify Ticket** to access the **RNG Authenticity Verification**. Else, you can access the **Verification Tool** [here](https://blackbox.ginar.io), and enter **Ticket ID** then click **Verify**. 
+
+![Step 1](https://github.com/GINARTeam/docs/blob/master/docs/Verification-tool/Step1.png?raw=true)
 
 
-
-
-To use **GINAR Random Verification Tool**, go to **[GINAR Website](https://www.GINAR.io/)** and navigate to **Verify**, then find **Verification Tool** to start verifying your random number. It will link you to the **[Verification Page](https://blackbox.ginar.io/)**.
 
 
 ## Verification process

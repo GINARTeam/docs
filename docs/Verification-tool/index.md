@@ -66,7 +66,7 @@ You can use Ticket ID to verify beacon value and timestamp when this beacon has 
 
 > **Creator**: The creator of the ticket - GINAR Decentralized RNG.
 
-> **Status**: **Used**: The ticket ID has been initiated and used / **Unused**: The ticket ID has been initiated but has not been used
+> **Status**: **Used** - The ticket ID has been initiated and used / **Unused** - The ticket ID has been initiated but has not been used
 
 
 

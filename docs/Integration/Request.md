@@ -13,44 +13,57 @@ After passing authentication, you can request secure random numbers from GINARâ€
 	* **contibute_number**:  An arbitrary number that the user contributes to the public blockchain, generating random numbers. Each contributed number from users is a random entropy that affects the random number messages users should get for their sessions.
 		* _type_: **string** (required)
 		* _constraint_: string length in 1..50
-* Return: A hex-string session key that can be used as input to the API Generate. This session key is kept in the server until it is used.
-	* _type_: **string** (256-bit hex-string)
-* Sample request: ```https://api.ginar.io/rng/initialize/pqwoinnvzhgqiytzcce341v```
+* Return: list (1024 entries) of hex-string ticket Id along with Serial number that can be used as input to the API Generate. This ticket Id is kept in the server until it is used.
+* Sample request: ```https://api.ginar.io/rng/initialize/0FFA158E185C42C971FB73B4B03EE28D5D921571```
 * Sample response:
-```a3fc7800937f4c984c7a9aaa6e02e98a6f4657531da35b5a59bbf5d23753c82d```
+```
+[
+    {
+        "serialNumber": "462-1574331364154-1",
+        "ticketId": "d40b57134f7fbb21568c50827d17634dd5ca890abd2c19e8455b7bb1bca9e20c"
+    },
+    {
+        "serialNumber": "462-1574331364154-2",
+        "ticketId": "b750b9849912e300d87c12adaf6a6ca75ef107ba18ad887b387368ea567716f9"
+    },
+    ...
+]
+```
 ## API Generate
 * API URL:
-> https://api.ginar.io/rng/generate/ **{sessionKey}/[{dest_lower}/{dest_upper}]**
-* Method: ``GET``
+> https://api.ginar.io/rng/generate/ **{ticketId}**
+* Method: ``POST``
 * Parameters:
-	* **sessionKey**: a valid session key
+	* **ticketId**: a valid ticket Id
 		* _type_: **string** (required)
 		* _constraint_: 256-bit hex-string
-	* **dest_lower**:  the minimum value of the result numbers
-		* _type_: **integer** (optional)
-		* _constraint_: value in **[0, dest_upper)**
-	* **dest_upper**: the maximum value of the result numbers
-		* _type_: **integer** (optional)
-		* _constraint_: value in **(des_lower, 2^256]**
+* Body:
+	* **userData**: custom data of requester for each request
+		* _type_: **json** (optional)
+		* _constraint_: size 128 bytes
 * Return:  a JSON string
-	* **sessionKey**: the hex-string session key that can be input for the next request and will be expired until it is used or the session time out.
-		* _type_: **string** (256-bit hex-string)
+	* **usedTimestamp**: the time (GMT) for generating random number from GINAR system with ticketId.
 	* **beacon**: the random number as a hex string
 		* _type_: **string** (256-bit hex-string)
-	* **m**: the unique number GINAR get from SCRAPE-contract on public blockchain which improve security of the random number.
-		* _type_: **string** (256-bit decimal)
-	* **num**: a list of extracted numbers from **_beacon_** that are uniformly distributed in the desired range **_[dest_lower, dest_upper]_**. This field is only added to the response when both **_dest_lower_** and **_dest_upper_** are specified in the request.
-		* _type_: **array of string**
+	* **signature**: a short digital signature to ensure the result is undeniably coming from GINAR.
+	
 * Sample request: 
 ``` 
-https://api.ginar.io/rng/generate/4f0be1540f958247f71ad78b47674b80507017d6ba137fdd68e813bc080f3a68/1000/2000
+https://api.ginar.io/rng/generate/4f0be1540f958247f71ad78b47674b80507017d6ba137fdd68e813bc080f3a68
 ```
+``Sample body:``
+```
+{
+	"gameId": "a47897b7-cce8-4bf9-94cd-83471d6ff0ba",
+	"roomId": "18",
+}
+```
+
 * Sample response:
 ```
 {
- 	"sessionKey": "5c6384966f5705a465b9c9c78f4b9d3b80d9682151c55b9f9585d27fb9b8b34e",
- 	"beacon": "0xda521243a1d89a240a33e1cc3aa9b2c24693efd2867e639d71bb14c9aee0c91e",
- 	"m": "3032852705800073042698913389297468268373614317895938797777405436809841493858",
- 	"nums": ["1530", "1097", "1688", "1355", "1539", "1000", "1284", "1756", "1346", "1789", "1038", "1344", "1043", "1076", "1030", "1000", "1776", "1334", "1072", "1933", "1158", "1208", "1837", "1597", "1312"]
- }
+    "usedTimestamp": 1574331609173,
+    "beacon": "70d8659abec694eae3afc8fa33070641b12d6cc9c993b63ae53dde404cd32523",
+    "signature": "0xea25fb13aac41cd719537875f05e98d7d4d2b221b208d5955abe3cf05df89db467c3f44c2d356b37da6e4b9ade0d70b9c0f36f0af388122ac8e6a20ef05109411c"
+}
  ```

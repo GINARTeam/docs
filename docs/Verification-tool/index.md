@@ -35,7 +35,7 @@ You can use TicketID to verify beacon value and timestamp when this beacon has b
 
 - If the TicketID is **found** and **used**, that means the **TicketID** had been initiated and used.
 
-![Found](https://github.com/GINARTeam/docs/blob/master/docs/Verification-tool/TicketFound.png?raw=true)
+![Found](https://github.com/GINARTeam/docs/blob/master/docs/Verification-tool/Ticket%20Found.png?raw=true)
 
 - If the **TicketID** is **found** and **unused**, that means the **TicketID** had been initiated but not yet used.
 

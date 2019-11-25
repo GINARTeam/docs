@@ -10,13 +10,13 @@ GINAR is a leading company in providing Decentralized Random Number Generation (
 
 ## Authenticity Verification
 
-GINAR provides a UI (called **Authenticity Verification API**) for the sake of making verification intuitively. The verification tool can be found **[HERE]**(https://blackbox.ginar.io). At a high level, the verifying procedure shows all the details relating to how a random number is generated. Moreover, this information is written onto the Ethereum blockchain to guarantee that manipulating is impossible. Following is the description of how to use this tool. 
+GINAR provides a UI (called **Authenticity Verification API**) for the sake of making verification intuitively. The verification tool can be found [HERE](https://blackbox.ginar.io). At a high level, the verifying procedure shows all the details relating to how a random number is generated. Moreover, this information is written onto the Ethereum blockchain to guarantee that manipulating is impossible. Following is the description of how to use this tool. 
 
 Note that each random beacon will be associated with a **TicketID**. This **TicketID** is sufficient to retrieve all the information relating to how a random number has been produced. 
 
 ### 1. Search the TicketID
 
-If the **Gaming/iGaming Providers** already integrated GINAR random service API, then you can simply click on **Verify Ticket** to access the **RNG Authenticity Verification** tool. Else, you can access the **RNG Authenticity Verification** tool **[HERE]**(https://blackbox.ginar.io), and enter **TicketID** then click **SEARCH**. 
+If the **Gaming/iGaming Providers** already integrated GINAR random service API, then you can simply click on **Verify Ticket** to access the **RNG Authenticity Verification** tool. Else, you can access the **RNG Authenticity Verification** tool [HERE](https://blackbox.ginar.io), and enter **TicketID** then click **SEARCH**. 
 
 ![Step 1](https://github.com/GINARTeam/docs/blob/master/docs/Verification-tool/Step%201.png?raw=true)
 

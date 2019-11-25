@@ -97,6 +97,8 @@ Each eligible contributor block includes:
 
 > **Signature**: The signature of the GINARATOR on the contribution
 
+
+
 If one wishes to verify the **Credential**, click on the hyperlink **VRF tool** to get access to the public **Python** implementation.
 
 ![VRF](https://github.com/GINARTeam/docs/blob/master/docs/Verification-tool/VRF.png?raw=true)

@@ -15,7 +15,6 @@ GINAR service generates a random number from the input **Ticket ID**. This Ticke
 - **Timestamp** at receiving
 - **Serial numbers**: Each customer has a set of serial numbers
 - **User Data**: GINAR customers can decide whether or not to send their user data for contributing the ticket ID creation
-- **Mockup ID**: The mockup procedure performed by GINAR system to create a specific ticket ID
 
 After each successful query, a next Ticket ID is created from the previous Ticket ID following recursive formula. GINAR service keeps the hash of the genesis Ticket ID, this value will be published on blockchain for authenticity verification.
 

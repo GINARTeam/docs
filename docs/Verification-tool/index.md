@@ -28,7 +28,7 @@ You can use Ticket ID to verify beacon value and timestamp when this beacon has 
 
 - If you get a message **Ticket not found !**, that means the **Ticket ID** has not been initiated yet.
 
-![NotFound](https://github.com/GINARTeam/docs/blob/master/docs/Verification-tool/TicketNotFound.png?raw=true)
+![NotFound](https://github.com/GINARTeam/docs/blob/master/docs/Verification-tool/TicketNot%20Found.png?raw=true)
 
 - If the Ticket ID is **found** and **used**, that means the **Ticket ID** had been initiated and used.
 

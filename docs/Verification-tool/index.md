@@ -22,7 +22,7 @@ If the **Gaming/iGaming Providers** already integrated GINAR random service API,
 
 ![Step 1](https://github.com/GINARTeam/docs/blob/master/docs/Verification-tool/Step%201.png?raw=true)
 
-> **TicketID** - an identification for each beacon (random string) 
+> **TicketID** - The root of all the RNG generation processes. It contains random information from end users, operators, GINAR and public Ethereum
 
 You can use TicketID to verify beacon value and timestamp when this beacon has been generated. This value will be the root of all calculations for the later generation.
 

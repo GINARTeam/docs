@@ -29,17 +29,21 @@ You can use TicketID to verify beacon value and timestamp when this beacon has b
 
 ### 2. Verification Results
 
-- If you get a message **Ticket not found !**, that means the **TicketID** has not been initiated yet.
+- If you get a message **The Authenticity of this game can not be verified by GINAR**, that means the **TicketID** has not been initiated yet.
 
-![NotFound](https://github.com/GINARTeam/docs/blob/master/docs/Verification-tool/TicketNot%20Found.png?raw=true)
+![NotFound](https://github.com/GINARTeam/docs/blob/master/docs/Verification-tool/TicketNotFound.png?raw=true)
 
-- If the TicketID is **found** and **used**, that means the **TicketID** had been initiated and used.
+- If you get a message **Verified by GINAR**, that means the **TicketID** has been initiated by GINAR.
 
-![Found](https://github.com/GINARTeam/docs/blob/master/docs/Verification-tool/TicketFound.png?raw=true)
+![NotFound](https://github.com/GINARTeam/docs/blob/master/docs/Verification-tool/Verified%20by%20GINAR.png?raw=true)
 
-- If the **TicketID** is **found** and **unused**, that means the **TicketID** had been initiated but not yet used.
+- If the TicketID is **Verified by GINAR** and **used**, that means the **TicketID** had been initiated and used.
 
-![Unused](https://github.com/GINARTeam/docs/blob/master/docs/Verification-tool/Status%20Unused.png?raw=true)
+![Found](https://github.com/GINARTeam/docs/blob/master/docs/Verification-tool/Ticket%20Found.png?raw=true)
+
+- If the **TicketID** is **Verified by GINAR** and **unused**, that means the **TicketID** had been initiated but not yet used.
+
+![Unused](https://github.com/GINARTeam/docs/blob/master/docs/Verification-tool/StatusUnused.png?raw=true)
 
 > **Requester**: The customer’s name
 

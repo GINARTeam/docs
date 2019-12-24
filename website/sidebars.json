@@ -78,7 +78,7 @@
         ]
       }
     ],
-    "Verification Tool": ["RNG Authenticity Verification"],
+    "Authenticity Verification": ["Verification-tool/verification-tool"],
     "Help": ["Help/help"]
   }
 }
